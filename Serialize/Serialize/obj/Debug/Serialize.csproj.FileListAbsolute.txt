@@ -1,0 +1,10 @@
+C:\Users\edemc\source\repos\Serialize\Serialize\obj\Debug\Serialize.csprojAssemblyReference.cache
+C:\Users\edemc\source\repos\Serialize\Serialize\obj\Debug\Serialize.csproj.CoreCompileInputs.cache
+C:\Users\edemc\source\repos\Serialize\Serialize\bin\Debug\Serialize.exe.config
+C:\Users\edemc\source\repos\Serialize\Serialize\bin\Debug\Serialize.exe
+C:\Users\edemc\source\repos\Serialize\Serialize\bin\Debug\Serialize.pdb
+C:\Users\edemc\source\repos\Serialize\Serialize\obj\Debug\Serialize.exe
+C:\Users\edemc\source\repos\Serialize\Serialize\obj\Debug\Serialize.pdb
+C:\Users\edemc\source\repos\Serialize\Serialize\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edemc\source\repos\Serialize\Serialize\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edemc\source\repos\Serialize\Serialize\obj\Debug\Serialize.csproj.CopyComplete
